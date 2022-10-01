@@ -1,0 +1,24 @@
+h1
+{
+    text-align: center;
+    color: blue;
+    font-family: Verdana;
+    font-size: 40px;
+}
+
+p
+{
+    text-align: center;
+    color: brown;
+    font-size: 30px;
+    font-family: calibri;
+    padding: 50px;
+}
+
+p1
+{
+    text-align: center;
+    color: rgb(218, 92, 19);
+    font-size: 40px;
+    padding: 50px;
+}
