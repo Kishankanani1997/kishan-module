@@ -1,0 +1,21 @@
+#ram
+        {
+             width: 90%; 
+             height:auto;
+             margin:auto; 
+             margin-top:2%;
+             color:blue; 
+             background-color:red; 
+             padding: 20px;
+        }
+
+        #shyam
+        {
+                 width: 90%;
+                 height:auto;
+                 margin:auto;
+                 margin-top:2%;
+                 color:green; 
+                 background-color:black;
+                 padding: 20px ;
+        }
