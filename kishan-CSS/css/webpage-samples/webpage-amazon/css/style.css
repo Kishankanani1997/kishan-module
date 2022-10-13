@@ -1,0 +1,72 @@
+body
+{
+    margin: 0 auto;
+    padding: 0;
+    background-color: #eaeded;
+}
+
+.amazon-header
+{
+    width: auto;
+    height: 40px;
+    padding: 10px;
+    background: black;
+    position: sticky;
+    top: 0;
+}
+
+.amazon-navbar
+{
+    width: auto;
+    height: 20px;
+    padding: 10px;
+    background: #232f3e;
+}
+
+.amazon-slider img
+{
+    width: 100%;
+    height: 400px;
+}
+
+.amazon-content
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.product-content
+{
+    width: auto;
+    height: 220px;
+    padding: 10px;
+    background:white;
+    margin-top: 2%;
+}
+
+.backto-top
+{
+    width: auto;
+    height: 30px;
+    padding: 10px;
+    background: #37475a;
+}
+
+.brand-history
+{
+    width: auto;
+    height: 450px;
+    padding: 10px;
+    background:#232f3e;
+    margin-top: 0%;
+}
+
+.amazon-footer
+{
+    width: auto;
+    height: 250px;
+    padding: 10px;
+    background:#131a22;
+    margin-top: 0%;
+}
