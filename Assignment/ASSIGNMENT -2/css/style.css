@@ -1,0 +1,83 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-color: #632778;
+}
+
+.container-cont
+{
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 1px;
+    height: 485px;
+    width: 1100px;
+    
+}
+
+.container-cont img
+{
+    margin-top: 40px;
+}
+
+.img-fluid
+{
+    padding: 15px;
+    margin-left: 45px;
+}
+
+.bgline
+{
+    margin-left: 85px;
+}
+
+.bgline1
+{
+    color: #7f7f7f;
+    font-size: 12px;
+    float: left;
+    margin-left: 65px;
+}
+
+.button1
+{
+    background-color: #632778;
+    margin-left: 36%;
+    margin-top: 20px;
+}
+
+.edit-button
+{
+    height: auto;
+    width: 100%;
+    float: left;
+}
+
+.edit-exper
+{
+    float: left;
+    font-size: 15px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.cont-style
+{
+    border-left: 0.5px solid gray;
+    border-right: 0.5px solid gray;
+    line-height: normal;
+}
+.exper 
+{
+    float:right;
+    font-size: 15px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.form1
+{
+    width: 99%;
+}

@@ -1,0 +1,28 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-color: #eeeeee;
+}
+
+
+.cont-img
+{
+    background-color:rgb(211, 248, 253);
+    width: 45%;
+    height: 40%;
+}
+
+.text-style
+{
+    color: #62d0f7;
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+.star1
+{
+    color: #ab4647;
+}
