@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='https://code.jquery.com/jquery-3.6.2.min.js'></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+
+            $("#btn").click(function(){
+
+                // append class
+                $("#style").append("<b>&nbsp;&nbsp;patel</b>");
+            });
+
+            // add class
+            $("div").addClass("main");
+
+        });
+    </script>
+    <style>
+        .main {background-color: red; color: white; font-size: 30px; width: 80%; height:auto}
+        .main button {background-color: blue;color: black; padding: 10px; font-size: larger; width: 100%; height: auto;}
+    </style>
+</head>
+<body>
+    <div>
+        <i id="style">kishan</i>
+        <br> <br>
+        <button type="button" id="btn">Add Surname</button>
+    </div>
+</body>
+</html>
